@@ -105,8 +105,8 @@ Explore my repositories to discover my work:
 
 ## 🤝 Connect With Me
 
-<p align="www.linkedin.com/in/mounir-lmaimouni-918568418">
-  <a href="#" target="_blank">
+<p align="">
+  <a href="www.linkedin.com/in/mounir-lmaimouni-918568418" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="#" target="_blank">
