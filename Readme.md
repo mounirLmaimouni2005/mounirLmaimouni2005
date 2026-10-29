@@ -93,10 +93,9 @@ Explore my repositories to discover my work:
 
 
 ## 📊 GitHub Stats
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=mounirLmaimouni2005&show_icons=true&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mounirLmaimouni2005&show_icons=true&hide_border=true)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mounirLmaimouni2005&layout=compact&hide_border=true)
+![Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=mounirLmaimouni2005&layout=compact&hide_border=true)
 
 ---
 
